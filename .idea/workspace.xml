@@ -2,7 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd86a824-7ce6-4550-890b-22a6b192c7ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/image_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image_7.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bg_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bg_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bg_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/course-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/course-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/course-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/course-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/course-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/course-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dept-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/image_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/image_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/image_6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/image_6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/loc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/person_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/person_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/person_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/staff-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/staff-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/staff-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/staff-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/teacher-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/teacher-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/teacher-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/teacher-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/teacher-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/teacher-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/teacher-8.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +96,7 @@
       <workItem from="1602398881441" duration="778000" />
       <workItem from="1602560059260" duration="113000" />
       <workItem from="1602605052453" duration="9000" />
-      <workItem from="1603022000167" duration="1552000" />
+      <workItem from="1603022000167" duration="5390000" />
     </task>
     <servers />
   </component>
@@ -77,10 +107,11 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1222" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601902993117">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state x="611" y="303" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603030965943">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="-1222" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1601902993117" />
+    <state x="611" y="303" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1603030965943" />
     <state x="341" y="175" key="SettingsEditor" timestamp="1602560115213">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
